@@ -1,4 +1,4 @@
-name: CI/CD Despliegue React a EC2
+name: CI/CD Despliegue de React a EC2
 
 on:
   push:
