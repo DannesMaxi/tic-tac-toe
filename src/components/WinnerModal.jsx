@@ -15,7 +15,7 @@ export function WinnerModal ({ winner, resetGame }) {
         </header>
 
         <footer>
-          <button onClick={resetGame}>Empieza otro juego</button>
+          <button onClick={resetGame}>Empieza nuevo Juego</button>
         </footer>
       </div>
     </section>
